@@ -9,6 +9,7 @@
   "author": "Priyanshu Singh",
   "dependencies": {
     "body-parser": "^1.15.0",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "pg": "^7.11.0"
   }
 }
